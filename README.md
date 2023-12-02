@@ -1,0 +1,3 @@
+# Reconstructability Analysis of Prime Number System Dynamics
+
+This repository contains some code and data used for a draft paper called "Reducing Uncertainty in Consecutive Prime Residue Classes with Reconstructability Analysis" which used the [Occam](http://dmit.sysc.pdx.edu/) software package to perform reconstructability analysis on consecutive prime residue classes as a take on tha 2016 paper [Unexpected biases in the distribution of consecutive primes](https://arxiv.org/abs/1603.03720) by Lemke Oliver and Soundararajan.
